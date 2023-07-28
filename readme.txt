@@ -1,3 +1,5 @@
+This is a Synthetic-Graph-Generator, with the purpose of being able to create a .txt file graph. The following below are specifications that you can add to get the most desired outcome of your Graph.
+
 The following is the command line input for the SyntheticGraphGenerator
 
 ./SyntheticGraphGenerator 200 10 1 2 0.30 0.60 0.30 1
